@@ -1,4 +1,4 @@
-a = 5
+a = 1
 fact = 1
 if a < 0:
    print("Sorry, factorial does not exist for negative numbers")
